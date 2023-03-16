@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+      "target": "es6",
+      "module": "ESNext",
+      "lib": ["dom", "es2017"],
+      "esModuleInterop": true,
+      "sourceMap": true,
+      "outDir": "./dist",
+      "strict": true,
+      "moduleResolution": "node",
+      "forceConsistentCasingInFileNames": true
+    },
+    "ts-node": {
+        "esm": true,
+    }, 
+    "include": ["src/**/*"],
+    "exclude": ["node_modules", "**/*.test.ts"]
+  }
+  
