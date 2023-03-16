@@ -27,7 +27,7 @@ Puedes ver la explicación completa en el siguiente vídeo:
 
 ## Instalación
 
-1. Crea un archivo `.env` dentro de la carpeta `bot-backend` con tu API key de Open AI:
+1. Crea un archivo `.env` dentro de la carpeta `backend` con tu API key de Open AI:
 
 ```
 OPENAI_API_KEY=YOUR_API_KEY
